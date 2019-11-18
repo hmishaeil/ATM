@@ -1,4 +1,4 @@
-# Command-line atm applciation
+# A command-line ATM application
 
 This Java project is related to Tala QA assignment which is implementng a simple ATM application with below specification. 
 
